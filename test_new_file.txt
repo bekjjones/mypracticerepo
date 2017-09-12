@@ -1,2 +1,3 @@
 testing adding a new file for uploading to GitHub
 making a change online editing via GitHub
+downloaded a copy, modified then upload for commit
