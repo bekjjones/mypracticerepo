@@ -3,7 +3,7 @@ my practice repository to get familiar with GitHub
 
 Hi everyone,
 
-I have invited you all to contribute to a public GitHub repository for practise 
+I have invited you all to contribute to a public GitHub repository for practise.
 
 It is just some dummy files including text files and a HTML example from W3schools.
 
