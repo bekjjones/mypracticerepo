@@ -2,3 +2,5 @@ testing adding a new file for uploading to GitHub
 making a change online editing via GitHub
 downloaded a copy, modified then upload for commit
 modified again and uploaded again (after an online edit... to test collaboration)
+
+uploading using a branch and commit
